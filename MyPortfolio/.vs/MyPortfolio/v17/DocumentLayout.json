@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA1785-5635-4690-B4BA-2D9825DC1045}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\enisa\\desktop\\.netprojects\\myportfolio\\myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AA1785-5635-4690-B4BA-2D9825DC1045}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA1785-5635-4690-B4BA-2D9825DC1045}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\enisa\\desktop\\.netprojects\\myportfolio\\myportfolio\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3AA1785-5635-4690-B4BA-2D9825DC1045}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA1785-5635-4690-B4BA-2D9825DC1045}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\enisa\\desktop\\.netprojects\\myportfolio\\myportfolio\\data\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA1785-5635-4690-B4BA-2D9825DC1045}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\data\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyPortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\MyPortfolio\\Data\\Context\\MyPortfolioContext.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Data\\Context\\MyPortfolioContext.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\MyPortfolio\\Data\\Context\\MyPortfolioContext.cs",
+              "RelativeToolTip": "MyPortfolio\\Data\\Context\\MyPortfolioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:26:48.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T20:26:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\.netProjects\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T12:28:04.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
